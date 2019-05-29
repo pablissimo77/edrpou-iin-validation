@@ -40,4 +40,4 @@ def valid(code):
         if len(work_code) == 10:
             res = valid10(work_code)
 
-        return (*res, work_code)
+    return (*res, work_code)
