@@ -6,7 +6,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="edrpou",
-    version="1.2",
+    version="1.3",
     author="Pavlo Yaremchuk (pablissimo77)",
     author_email="pablissimo77@gmail.com",
     description="Ukrainian EDRPOU-IIN validation",
